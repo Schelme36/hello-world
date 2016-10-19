@@ -1,2 +1,5 @@
 # hello-world
-a first try in github
+
+Servus miteinander,
+
+ihr soads hier in oinem Verzoichnis, dass die Welt begrüßa soll.
